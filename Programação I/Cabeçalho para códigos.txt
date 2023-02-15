@@ -1,0 +1,10 @@
+'''
+-------------------------
+FATEC -  SCS
+Segurança da Informação
+Programação I
+Nayara Escudeiro
+Data:
+Enunciado:
+-------------------------
+'''
