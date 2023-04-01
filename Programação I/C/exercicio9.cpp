@@ -57,15 +57,21 @@ int main(){
 	else
 	{
 	desempenho = distancia / gasto;
-	printf ("O desempenho do veículo é %.1fKM/L/n", desempenho);
+	printf ("O desempenho do veículo é %.1fKM/L\n", desempenho);
 	}
 	
-	if (desempenho >= 12)
+if (desempenho >= 12)
 	{
 		printf ("O desempenho do veículo está bom!");
 	}
 	
+	else{
+		printf ("Verifique o consumo!");
+	}
 	
-
 	return 0;
 }
+
+
+
+
