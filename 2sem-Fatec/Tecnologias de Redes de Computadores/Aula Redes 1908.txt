@@ -1,0 +1,21 @@
+- Kali Linux no pendrive
+- Mudar a BIOS para o computador começar pelo pendrove
+- O jogo da imitação
+- Wargames
+
+------------
+
+-ICMP - Internet Control Message Protocol
+-IP - Internet Protocol
+
+- Analisar tráfego interceptando o icmp pelo wireshark e tcpdump
+- Baixar ubuntu dentro do VMware - 22.04
+- Wifi Analyzer Baixar
+- Modo bridge
+- Ping VM
+- sudo apt install wireshark
+- socket - python
+- python3 Simpe_UDP_Server.py (vai abrir uma porta) (bind libera a porta)
+- control alt t para verificar se a porta foi aberta sudo nestat -putan
+- https://onedrive.live.com/?authkey=%21AIv8dwBNv6O5Gcg&cid=439D5056BBD31B7F&id=439D5056BBD31B7F%21173503&parId=439D5056BBD31B7F%21145617&o=OneUp
+- wireshard filtro udp port == 12500
