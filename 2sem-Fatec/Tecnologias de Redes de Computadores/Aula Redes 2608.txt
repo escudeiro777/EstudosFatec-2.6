@@ -1,0 +1,17 @@
+Fazer Handshake
+Assistir War Games
+Quebrar o criptograma (tatuagem) + Cifra de César + Engenharia social - Unicode (Vide Excel)
+
+Pasta Challenges - Decifrar Criptograma - Cifra de Rio + Matriz
+
+Construir um RSA em Python
+
+Criptografia - Técnicas de descaracterização de algoritimos com base da matemática
+
+Canais de comunicação
+-Transmissor 
+
+Data flow:
+1 - Simplex - Envio de informação somente de um canal de comunicação
+2 - Half Duplex - Envio de informação de forma alternada
+3 - Full Duplex - Envio de informação de ambos os lados ao mesmo tempo 

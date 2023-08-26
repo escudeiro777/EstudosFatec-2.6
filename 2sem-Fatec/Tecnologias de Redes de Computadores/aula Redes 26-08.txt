@@ -1,0 +1,37 @@
+Fazer Handshake
+Assistir War Games
+Quebrar o criptograma (tatuagem) + Cifra de César + Engenharia social - Unicode (Vide Excel)
+
+Pasta Challenges - Decifrar Criptograma - Cifra de Rio + Matriz
+
+Construir um RSA em Python
+
+Criptografia - Técnicas de descaracterização de algoritimos com base da matemática
+
+Canais de comunicação
+-Transmissor 
+
+Data flow:
+1 - Simplex - Envio de informação somente de um canal de comunicação
+2 - Half Duplex - Envio de informação de forma alternada
+3 - Full Duplex - Envio de informação de ambos os lados ao mesmo tempo 
+
+Autopsy - Digital Forensics - Software de Pericia Forenses
+
+IEEE - 802.11ax - WIFI
+IEEE - 802.11i - WIFI
+IEEE - 803.3 - ETHERNET
+Criptografia AES
+---------------------------------------------------------------------------------------------------
+Pasta Others - Artigo Bluetooth - Ler para a prova
+RM - OSI (Open Systems Interconnection)
+7 camadas
+
+Physical - To trasmit bits over a medium; To provide mechanical and electrical 
+Data link - UTF-8, Criptografia - To organize bits into framses; to provide hop-to-hop delivery
+Network
+Transport
+Session
+Presentation
+Application
+User

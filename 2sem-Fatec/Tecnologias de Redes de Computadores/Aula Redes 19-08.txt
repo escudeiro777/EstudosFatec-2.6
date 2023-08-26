@@ -1,4 +1,0 @@
-- Kali Linux no pendrive
-- Mudar a BIOS para o computador começar pelo pendrove
-- Ruim pra cachorro
-- Wargames
