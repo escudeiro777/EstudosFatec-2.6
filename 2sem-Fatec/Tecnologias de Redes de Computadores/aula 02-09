@@ -1,0 +1,21 @@
+Tudo tem padrão
+Padrão mais moderno do WIFI - 802.11ax
+Ver documentação placa de rede  
+Ler artigo Bluetooth
+
+----------------------------------------
+
+Comunicação USB <-> UART (Universal Asynchronous Receiver Trans mitter)
+I2C - Síncrono
+Taxa de trasmissão de sistemas seriais é bps (bits por segundos)
+8 bits =  1 Byte 
+
+Tipos de sinais - Digital (Retangular) e Analógico (Senoidal)
+
+Sequência, Amplitude e Fase
+
+Tarefa Arduino
+
+nano test gpt.py 
+
+/etc/default/keyboard

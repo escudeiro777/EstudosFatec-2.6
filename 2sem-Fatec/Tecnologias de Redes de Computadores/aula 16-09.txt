@@ -1,0 +1,5 @@
+Claude Shennon - Cálculo de largura de banda
+SNR - Relação entre sinal e o ruído
+B =  fmax - fmin
+
+baixar wifi analyzer

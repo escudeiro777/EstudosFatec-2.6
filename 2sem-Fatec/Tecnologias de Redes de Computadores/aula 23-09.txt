@@ -1,0 +1,40 @@
+pq existem dois endereços: mac adresss e ip?
+ip - chega em qualquer computador do mundo - chega ate o japao
+mas pra chegar ate o japao passa por varios passos - quem faz o trasnporte é o mac adress (endereçamento fisico)
+
+Invasão Brute Force
+
+Hydra
+Configurações da Maquina Virtual - Placa de rede
+
+atacante - ping na maquina atacada (garantir conectividade)
+acessar maquina remotamente = sshcabrini@ip
+
+pwd (ver qual caminho)
+
+ver html do site para criar uma wordlist
+volta pra maquina do atacante
+
+curl rota do site (pegar o html da pagina)
+
+rodar comando pra criar wordlist
+
+no servidor atacado
+
+sudo useradd tony
+sudo passwd tony
+
+no servidor atacante
+
+dentro do diretorio tmp 
+rodar comando hydra -l etc etc
+
+abrir outro terminal e entrar no servidor atacado
+
+cd /var/log
+ls 
+
+tail -f auth.log
+
+(pasta books/so canonical instalar pdf)
+https://onedrive.live.com/?authkey=%21AIv8dwBNv6O5Gcg&cid=439D5056BBD31B7F&id=439D5056BBD31B7F%21239447&parId=439D5056BBD31B7F%21179539&o=OneUp
