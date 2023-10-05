@@ -1,0 +1,30 @@
+c=b * log2(1+snr)
+b = frequencia maxima - frequencia minima 
+quanto menor a frequencia maior a distancia
+baixar netspot
+
+sudo nmap (adiciona ip)/24 ve quais ips existem
+sudo nmap (adiciona ip) ve se as portas estao abertas
+
+baixar nmap!!!
+mexer no vi - editor de texto
+
+tatuagem professor
+pessoas que moram com o professor
+larissa
+henrique
+elaine
+vitor
+livia 
+luigi
+
+video
+
+fabio
+elaine
+larissa
+henrique 
+vitor
+livia 
+luigi
+conhecey 1994  casaram em 98 engravidaram 2001 cha de bebe 2002 luigi 2006
