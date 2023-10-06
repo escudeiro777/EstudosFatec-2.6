@@ -13,7 +13,12 @@ sudo gzip -d rockyou.txt.gz
 
 ls
 
-sed -i '100000i senha' rockyou.txt
+sudo sed -i '100000i senha' rockyou.txt
+
+OU
+
+sudo sed -i '1s/^/sua_palavra\n/' /usr/share/wordlists/rockyou.txt
+
 
 grep senha rockyou.txt
 
